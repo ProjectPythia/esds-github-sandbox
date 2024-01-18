@@ -4,3 +4,8 @@ dependencies:
   - jupyterlab
   - ipykernel
   - numpy
+  - xarray
+  - matplotlib
+  - cartopy
+  - nc-time-axis
+  - cftime
