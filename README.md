@@ -398,7 +398,10 @@ Fill out `Open a pull request` with a relevant Title and a summary of descriptio
 
 You can view all your open Pull Requests at [github.com/pulls](https://github.com/pulls)
 
-## Additional Practice: 
+## Additional Practice and Resources
+
+### Learn Git and Github
+[Here are some good resources to learn more about Git and Github](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 
 ### Learn How to Use Branches
 Branches are an important part of being able to work on a repo with multiple developers. You can learn how to manage branches with this [visual tutorial](https://learngitbranching.js.org/?locale=en_US)
